@@ -64,6 +64,7 @@ Here is the list of popular programming languages and frameworks that are suitab
 ### 8. **Rust**
    - **Popular Frameworks**:
      - **Actix**: A fast and secure framework based on Rust, often used for web applications and APIs that require high performance. It supports MySQL and can integrate with HTML via template engines like Tera.
+     - https://github.com/ChiperSage/Login-Register-RustActix
      - **Rocket**: A more user-friendly framework, suitable for prototyping web applications, also supporting MySQL and HTML.
    - **Advantages**:
      - High performance and security.
