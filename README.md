@@ -12,7 +12,7 @@ Here is the list of popular programming languages and frameworks that are suitab
 ### 2. **JavaScript (Node.js)**
    - **Popular Frameworks**:
      - **Express.js**: A minimalist and flexible framework for Node.js, often used with MySQL. Express can use template engines like EJS or Pug for rendering HTML.
-     - **NestJS**: A more structured framework using a modular architecture, suitable for large, complex applications. It supports MySQL and HTML rendering with template engines.
+     - **NestJS**: A more structured framework using a modular architecture, suitable for large, complex applications. It supports MySQL and HTML rendering with template engines. https://github.com/ChiperSage/Login-Register-NestJs
    - **Advantages**:
      - Large JavaScript ecosystem.
      - Realtime with WebSocket.
@@ -29,7 +29,7 @@ Here is the list of popular programming languages and frameworks that are suitab
 
 ### 4. **Ruby**
    - **Popular Frameworks**:
-     - **Ruby on Rails**: A full-stack framework known for its rapid development and built-in support for MySQL. Rails uses ERB as its template engine to write HTML.
+     - **Ruby on Rails**: A full-stack framework known for its rapid development and built-in support for MySQL. Rails uses ERB as its template engine to write HTML. https://github.com/ChiperSage/Login-Register-RubyOnRails
    - **Advantages**:
      - Convention over Configuration (lots of automatic features).
      - Fast development.
